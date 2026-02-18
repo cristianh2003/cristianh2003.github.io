@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Metodologías de desarrollo de software"
-date:   2026-02-18 18:00:00 -0600
+date:   2026-02-18 10:00:00 -0600
 categories: Metodologías de desarrollo de software
 ---
 
