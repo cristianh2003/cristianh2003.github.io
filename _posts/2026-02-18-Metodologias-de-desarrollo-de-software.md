@@ -19,7 +19,7 @@ Este enfoque se centra en una planificación detallada y exhaustiva al inicio de
 * **Modelo en Cascada:** El nombre de cascada de esta metodología se deriva de cómo se organizan las
 etapas (de arriba a abajo), desarrollando las funciones en etapas diferenciadas y
 en estricto orden. En esta metodología se debe revisar el producto antes de cada
-etapa para ver si está listo para pasar a la siguiente fase.
+etapa para ver si está listo para pasar a la siguiente fase. 
 
 En el modelo en cascada las actividades el desarrollo fundamental de este
 modelo se derivan en las siguientes etapas: Análisis y definición de
@@ -38,7 +38,7 @@ modelo en cascada.
 Una de las características de este modelo de desarrollo es que el software se
 puede empezar a utilizar incluso antes de que se complete totalmente y, en
 general, es mucho más flexible que las demás metodologías.
-
+    
 En otras palabras el modelo de desarrollo incremental es la duración de vida de
 desarrollo software, el mismo descompone un proyecto en una serie de
 incrementos, los cuales suministran una porción de la funcionalidad respecto de
