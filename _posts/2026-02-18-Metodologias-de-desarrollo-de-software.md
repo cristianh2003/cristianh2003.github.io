@@ -93,10 +93,13 @@ Este enfoque se centra en una planificación detallada y exhaustiva al inicio de
 - **Entrega tardía de valor:** El cliente solo ve el producto funcional al final del ciclo de vida.
 - **Riesgo de "Análisis-Parálisis":** Se puede invertir demasiado tiempo en la planificación sin escribir código.
 
+## Metodologías Ágiles
+Las metodologías ágiles permiten adaptar las tendencias y cambios del mercado a las necesidades de cada empresa, mediante técnicas, enfoques y prácticas que no solo buscan la mejora continua en la entrega de proyectos, sino también la adaptabilidad y colaboración para lograr ese objetivo.[<sup>4</sup>](#referencias)
 
 ### Referencias
 1. Sommerville, I. (2011). Software Engineering (9th ed.). Addison-Wesley.
 2. Modelo de prototipos - EcuRed. (2026). Ecured.cu. https://www.ecured.cu/Modelo_de_prototipos
 3. Infragistics. (2022, September 6). ¿Qué es el desarrollo rápido de aplicaciones (modelo RAD)? App Builder. https://www.appbuilder.dev/es/blog/rapid-application-development
+4. de, E. (2025, August 13). Metodologías ágiles para la gestión de proyectos tecnológicos. UNIR México; Universidad Internacional de La Rioja. https://mexico.unir.net/noticias/ingenieria/metodologias-agiles/
 
 ‌
