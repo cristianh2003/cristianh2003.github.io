@@ -65,7 +65,7 @@ Este enfoque se centra en una planificación detallada y exhaustiva al inicio de
     desarrollo clásicos y ágiles, es por ello que también se le llama modelo o
     desarrollo de segundo orden.
 
-    ![Diagrama de Espiral](/assets/img/espiral.png)
+    ![Diagrama de Espiral](/assets/img/espiral.jpg)
 
 * **Desarrollo Rapido de Aplicaciones:** En español Modelo de Desarrollo Rápido de Aplicaciones (DRAI), y por sus siglas en inglés RAD, (Rapid Application Development) y es un procedimiento ágil de desarrollo de software, el cual da prioridad a las entregas y repeticiones rápidas de prototipos. Cabe destacar que las repeticiones rápidas reducen el periodo de desarrollo y agilizan la entrega.
 
@@ -80,7 +80,7 @@ Este enfoque se centra en una planificación detallada y exhaustiva al inicio de
 
     Sin embargo, con el paso de los años, esta metodología y su concepto cambiaron (y continúan haciéndolo). Lo cual es comprensible, considerando el mero hecho de que se trata de adaptaciones, flexibilidad y cambios de acuerdo con los proyectos, las personas, la tecnología y el tiempo.[³](#referencias)
 
-    ![Diagrama de Desarrollo Rapido de Aplicaciones](/assets/img/espiral.png)
+    ![Diagrama de Desarrollo Rapido de Aplicaciones](/assets/img/dra.png)
 
 ## Ventajas y Desventajas de las Metodologías Tradicionales
 ### Ventajas:
