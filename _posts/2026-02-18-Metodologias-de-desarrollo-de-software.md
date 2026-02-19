@@ -109,7 +109,7 @@ Esta metodología se lleva adelante en “Sprints”, es decir, procesos de trab
 * #### Kanban:
 Kanban es una palabra japonesa que en español significa “tarjeta visual”. Esta metodología sugiere una comunicación en tiempo real y controla el trabajo a través de una línea de producción. Es decir, se crean tres columnas: pendientes, en proceso y terminadas. De esa forma, es posible clasificar las tareas y visualizar fácilmente sus avances.
 
-Hay otras herramientas online similares a Kanban, como Trello y Monday.
+    Hay otras herramientas online similares a Kanban, como Trello y Monday.
 
 ![Diagrama de Kanban](/assets/img/kanban.webp)
 
