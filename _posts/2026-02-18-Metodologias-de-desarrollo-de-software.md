@@ -41,13 +41,51 @@ Este enfoque se centra en una planificación detallada y exhaustiva al inicio de
 
     En este modelo de proceso, el sistema se implementa parcialmente antes o durante la fase de análisis, lo que permite a los clientes ver el producto en las primeras etapas de su ciclo de vida. El proceso comienza con la entrevista a los clientes y el desarrollo del modelo de alto nivel incompleto.
 
-    Es un enfoque iterativo que crea versiones preliminares funcionales (prototipos) para validar requisitos con el cliente antes del desarrollo final. Permite visualizar la interfaz y funcionalidades, reduciendo riesgos, costos y mejorando la comprensión del sistema. Es ideal cuando los requisitos no están claros.[$^4$](#referencias)
+    Es un enfoque iterativo que crea versiones preliminares funcionales (prototipos) para validar requisitos con el cliente antes del desarrollo final. Permite visualizar la interfaz y funcionalidades, reduciendo riesgos, costos y mejorando la comprensión del sistema. Es ideal cuando los requisitos no están claros.[²](#referencias)
 
     ![Diagrama de Prototipo](/assets/img/prototipo.png) 
 
+* **Espiral:** El nombre de esta metodología se debe a su funcionamiento, ya que las etapas se procesan en forma de espiral. Cuanto más cerca del centro se está, más avanzado está el proyecto.
+
+    Esta metodología se caracteriza por combinar dos modelos, el incremental y el
+    prototipo, que agrega la idea de análisis de riesgo. La misma se divide en cuatro
+    etapas: planificación, análisis de riesgo, desarrollo de prototipo y evaluación del cliente.
+
+    Otra característica del desarrollo en espiral es la minimización de los riesgos en
+    el desarrollo de software. Estos riesgos se enfrentan al enfoque incremental,
+    realizando primero prototipos, que luego pasan por las fases de desarrollo de
+    software.
+
+    El desarrollo o modelo en espiral es un enfoque de desarrollo de software que
+    puede ser considerado como una respuesta a los inconvenientes del desarrollo
+    en cascada. El modelo en espiral explica las etapas de vida de un software por
+    medio de espirales, que se repiten hasta entregar el producto terminado.
+
+    El desarrollo en espiral es universal y se combina con otros métodos de
+    desarrollo clásicos y ágiles, es por ello que también se le llama modelo o
+    desarrollo de segundo orden.
+
+    ![Diagrama de Espiral](/assets/img/espiral.png)
+
+* **Desarrollo Rapido de Aplicaciones:** En español Modelo de Desarrollo Rápido de Aplicaciones (DRAI), y por sus siglas en inglés RAD, (Rapid Application Development) y es un procedimiento ágil de desarrollo de software, el cual da prioridad a las entregas y repeticiones rápidas de prototipos. Cabe destacar que las repeticiones rápidas reducen el periodo de desarrollo y agilizan la entrega.
+
+    Este modelo se caracteriza por sus equipos compuestos por alrededor de seis
+    personas, incluyendo desarrolladores y usuarios de tiempo completo del sistema
+    así como aquellas personas involucradas con los requisitos.
+
+    Cuando se toma la decisión  de adoptar la metodología DRA, se debe tener en
+    cuenta las ventajas y desventajas de su uso y saber por qué utilizar RAD.
+
+    La idea es adaptarse rápidamente a los problemas, oportunidades y actualizaciones, al mismo tiempo que se pueden tomar decisiones basadas en datos y basar el diseño y desarrollo de la solución tanto en los requisitos como en el conocimiento adquirido en procesos anteriores o en curso.
+
+    Sin embargo, con el paso de los años, esta metodología y su concepto cambiaron (y continúan haciéndolo). Lo cual es comprensible, considerando el mero hecho de que se trata de adaptaciones, flexibilidad y cambios de acuerdo con los proyectos, las personas, la tecnología y el tiempo.[³](#referencias)
+
+    ![Diagrama de Desarrollo Rapido de Aplicaciones](/assets/img/espiral.png)
+
 
 ### Referencias
-- [^1]Sommerville, I. (2011). Software Engineering (9th ed.). Addison-Wesley.
-- [^4] Modelo de prototipos - EcuRed. (2026). Ecured.cu. https://www.ecured.cu/Modelo_de_prototipos
+1. Sommerville, I. (2011). Software Engineering (9th ed.). Addison-Wesley.
+2. Modelo de prototipos - EcuRed. (2026). Ecured.cu. https://www.ecured.cu/Modelo_de_prototipos
+3. Infragistics. (2022, September 6). ¿Qué es el desarrollo rápido de aplicaciones (modelo RAD)? App Builder. https://www.appbuilder.dev/es/blog/rapid-application-development
 
 ‌
