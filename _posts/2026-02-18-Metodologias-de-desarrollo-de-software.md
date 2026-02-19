@@ -12,6 +12,7 @@ Existen dos enfoques principales: las metodologías tradicionales, que priorizan
 Según Sommerville:[¹](#referencias) 
 >"Un proceso de software (o metodología) es una serie de actividades relacionadas que conduce a la elaboración de un producto de software".
 
+
 ## Metodología Tradicional
 Este enfoque se centra en una planificación detallada y exhaustiva al inicio del proyecto. Se asume que los requisitos pueden definirse completamente antes de comenzar la codificación. El proceso es lineal y secuencial; una fase no comienza hasta que la anterior ha finalizado.
 
@@ -82,6 +83,12 @@ Este enfoque se centra en una planificación detallada y exhaustiva al inicio de
 
     ![Diagrama de Desarrollo Rapido de Aplicaciones](/assets/img/dra.png)
 
+
+#### Ejemplo:
+* **Metodología Tradicional (Cascada): Calculadora de Nómina Básica**
+Imaginemos una aplicación de escritorio sencilla para calcular salarios de una pequeña empresa. Los requisitos legales y matemáticos son estáticos; las fórmulas de impuestos y deducciones no mutan a mitad del desarrollo. Se especifican las reglas de negocio al inicio, se diseña la interfaz, se codifica y se despliega linealmente.
+
+
 ## Ventajas y Desventajas de las Metodologías Tradicionales
 ### Ventajas:
 - **Previsibilidad:** Los plazos, costos y alcance se definen al inicio.
@@ -92,6 +99,7 @@ Este enfoque se centra en una planificación detallada y exhaustiva al inicio de
 - **Rigidez:** Poca tolerancia a cambios en los requisitos una vez iniciado el desarrollo.
 - **Entrega tardía de valor:** El cliente solo ve el producto funcional al final del ciclo de vida.
 - **Riesgo de "Análisis-Parálisis":** Se puede invertir demasiado tiempo en la planificación sin escribir código.
+
 
 ## Metodologías Ágiles
 Las metodologías ágiles permiten adaptar las tendencias y cambios del mercado a las necesidades de cada empresa, mediante técnicas, enfoques y prácticas que no solo buscan la mejora continua en la entrega de proyectos, sino también la adaptabilidad y colaboración para lograr ese objetivo.[<sup>4</sup>](#referencias)
@@ -113,9 +121,34 @@ Kanban es una palabra japonesa que en español significa “tarjeta visual”. E
 
 ![Diagrama de Kanban](/assets/img/kanban.webp)
 
+* #### Extreme Programming o XP:
+Esta es una metodología ágil creada para responder a ambientes muy cambiantes donde se necesita una retroalimentación permanente. Ella busca enfatizar la adaptabilidad de un proyecto, sólo así se conseguirá el resultado esperado.
+
+    Quienes trabajan con esta metodología deben entender que los cambios son inevitables y, muchas veces, más beneficiosos que un crecimiento estático.
+
+![Diagrama de Extreme Programming](/assets/img/xp.webp)
+
+#### Ejemplo:
+* **Metodología Ágil (Scrum): Aplicación Móvil de Hábitos (To-Do List)**
+Consideremos una app básica para registrar tareas diarias. La arquitectura mecánica es simple, pero la aceptación del usuario es pura heurística. Se lanza un Producto Mínimo Viable (MVP) y el mercado dicta que la interfaz original es anticuada. A través de sprints cortos de una semana, el equipo pivota y añade funcionalidades como el modo oscuro o notificaciones push porque la retención de atención es crítica. El alcance técnico debe ser flexible o el producto será rápidamente ignorado por los usuarios.
+
+    La naturaleza del problema dicta la herramienta metodológica, sin excepciones.
 
 
+## Ventajas y Desventajas de las Metodologías Tradicionales
+### Ventajas:
+* **Adaptabilidad:** Permite cambios en los requisitos en cualquier etapa del desarrollo.
 
+* **Entrega continua de valor:** El cliente recibe versiones funcionales frecuentemente, mejorando la satisfacción.
+
+* **Calidad técnica:** La integración continua y las pruebas frecuentes reducen la deuda técnica.
+
+### Desventajas:
+* **Alcance variable:** La falta de un plan fijo puede llevar a una expansión indefinida del proyecto (scope creep).
+
+* **Dependencia del usuario:** Requiere una participación activa y constante del cliente, lo cual no siempre es posible.
+
+* **Menor documentación:** Se prioriza el código funcional sobre la documentación extensiva, lo que puede complicar el traspaso del proyecto.
 
 ### Referencias
 1. Sommerville, I. (2011). Software Engineering (9th ed.). Addison-Wesley.
