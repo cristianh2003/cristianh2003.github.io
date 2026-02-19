@@ -135,7 +135,7 @@ Consideremos una app básica para registrar tareas diarias. La arquitectura mec�
     La naturaleza del problema dicta la herramienta metodológica, sin excepciones.
 
 
-## Ventajas y Desventajas de las Metodologías Tradicionales
+## Ventajas y Desventajas de las Metodologías Ágiles
 ### Ventajas:
 * **Adaptabilidad:** Permite cambios en los requisitos en cualquier etapa del desarrollo.
 
@@ -150,11 +150,17 @@ Consideremos una app básica para registrar tareas diarias. La arquitectura mec�
 
 * **Menor documentación:** Se prioriza el código funcional sobre la documentación extensiva, lo que puede complicar el traspaso del proyecto.
 
+## Importancia de las Metodologías de Desarrollo de Software
+La importancia de las metodologías de desarrollo de software radica en la transformación de un proceso creativo e individual en una disciplina de ingeniería sistemática, disciplinada y cuantificable. Al implementar un marco de trabajo definido, las organizaciones logran mitigar el riesgo inherente a la construcción de sistemas complejos, estableciendo un lenguaje común entre los desarrolladores y los interesados (stakeholders). Esto permite que el ciclo de vida del software no dependa del azar, sino de una estructura que garantiza la trazabilidad de los requerimientos y la optimización de los recursos técnicos y humanos disponibles.
+
+Asimismo, estas metodologías son críticas para garantizar la calidad técnica y la mantenibilidad del producto final. Sin un rigor metodológico, el software tiende a convertirse en una entidad difícil de escalar y costosa de reparar; en cambio, el uso de modelos —ya sean tradicionales o ágiles— fomenta la documentación técnica y la ejecución de pruebas continuas. Esto asegura que el sistema entregado sea robusto y que las expectativas del cliente se alineen con la realidad técnica, permitiendo además una respuesta ágil ante los cambios de prioridad en mercados altamente competitivos.[<sup>6</sup>](#referencias)
+
 ### Referencias
 1. Sommerville, I. (2011). Software Engineering (9th ed.). Addison-Wesley.
 2. Modelo de prototipos - EcuRed. (2026). Ecured.cu. https://www.ecured.cu/Modelo_de_prototipos
 3. Infragistics. (2022, September 6). ¿Qué es el desarrollo rápido de aplicaciones (modelo RAD)? App Builder. https://www.appbuilder.dev/es/blog/rapid-application-development
 4. de, E. (2025, August 13). Metodologías ágiles para la gestión de proyectos tecnológicos. UNIR México; Universidad Internacional de La Rioja. https://mexico.unir.net/noticias/ingenieria/metodologias-agiles/
 5. Salesforce LATAM. (2023, September 7). Metodologías Ágiles: qué son y cómo pueden ayudarte, Salesforce. Salesforce. https://www.salesforce.com/mx/blog/que-son-metodologias-agiles/
+6. Pressman, R. S. (2010). Ingeniería del software: Un enfoque práctico (7ma ed.). McGraw-Hill Education.
 
 ‌
