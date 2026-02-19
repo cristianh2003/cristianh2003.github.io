@@ -9,7 +9,7 @@ Las metodologías de desarrollo de software son marcos de trabajo estructurados 
 
 Existen dos enfoques principales: las metodologías tradicionales, que priorizan la planificación exhaustiva y la documentación, y las metodologías ágiles, que se centran en la adaptabilidad y la entrega iterativa. 
 
-Según Sommerville:¹ 
+Según Sommerville:[¹](#referencias) 
 >"Un proceso de software (o metodología) es una serie de actividades relacionadas que conduce a la elaboración de un producto de software".
 
 ## Metodología Tradicional
@@ -41,7 +41,7 @@ Este enfoque se centra en una planificación detallada y exhaustiva al inicio de
 
     En este modelo de proceso, el sistema se implementa parcialmente antes o durante la fase de análisis, lo que permite a los clientes ver el producto en las primeras etapas de su ciclo de vida. El proceso comienza con la entrevista a los clientes y el desarrollo del modelo de alto nivel incompleto.
 
-    Es un enfoque iterativo que crea versiones preliminares funcionales (prototipos) para validar requisitos con el cliente antes del desarrollo final. Permite visualizar la interfaz y funcionalidades, reduciendo riesgos, costos y mejorando la comprensión del sistema. Es ideal cuando los requisitos no están claros.[^4]
+    Es un enfoque iterativo que crea versiones preliminares funcionales (prototipos) para validar requisitos con el cliente antes del desarrollo final. Permite visualizar la interfaz y funcionalidades, reduciendo riesgos, costos y mejorando la comprensión del sistema. Es ideal cuando los requisitos no están claros.[$^4$](#referencias)
 
     ![Diagrama de Prototipo](/assets/img/prototipo.png) 
 
