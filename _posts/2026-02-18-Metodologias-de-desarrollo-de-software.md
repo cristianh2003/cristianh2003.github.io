@@ -22,7 +22,7 @@ Este enfoque se centra en una planificación detallada y exhaustiva al inicio de
 
     Las ventajas del modelo en cascada son que la documentación se produce en cada fase y este cuadra con otros modelos del proceso de ingeniería. La principal desventaja es su inflexibilidad en dividir el proyecto en distintas etapas.
 
-    ![Diagrama de Cascada](/assets/img/cascada.webp)
+    ![Diagrama de Cascada](/assets/img/diagrama_cascada.webp)
 
 * **Modelo Incremental:** En esta metodología de desarrollo de software se va elaborando el producto final
 de manera progresiva. En cada etapa se añade una nueva funcionalidad, con la
