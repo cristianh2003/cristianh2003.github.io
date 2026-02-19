@@ -122,6 +122,6 @@ Hay otras herramientas online similares a Kanban, como Trello y Monday.
 2. Modelo de prototipos - EcuRed. (2026). Ecured.cu. https://www.ecured.cu/Modelo_de_prototipos
 3. Infragistics. (2022, September 6). ¿Qué es el desarrollo rápido de aplicaciones (modelo RAD)? App Builder. https://www.appbuilder.dev/es/blog/rapid-application-development
 4. de, E. (2025, August 13). Metodologías ágiles para la gestión de proyectos tecnológicos. UNIR México; Universidad Internacional de La Rioja. https://mexico.unir.net/noticias/ingenieria/metodologias-agiles/
-5. Salesforce LATAM. (2023, September 7). Metodologías Ágiles: qué son y cómo pueden ayudarte | Salesforce. Salesforce. https://www.salesforce.com/mx/blog/que-son-metodologias-agiles/
+5. Salesforce LATAM. (2023, September 7). Metodologías Ágiles: qué son y cómo pueden ayudarte, Salesforce. Salesforce. https://www.salesforce.com/mx/blog/que-son-metodologias-agiles/
 
 ‌
