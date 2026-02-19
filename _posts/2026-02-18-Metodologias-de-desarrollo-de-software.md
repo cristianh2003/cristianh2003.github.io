@@ -101,14 +101,27 @@ Es decir, una metodología ágil es una innovadora forma de trabajar y organizar
 Con las metodologías ágiles, no se planifica ni se diseña el proyecto por adelantado, es decir, a medida que ellas se van desarrollando se va definiendo el proyecto. Siendo así, los involucrados trabajan por períodos específicos, mientras que cada miembro del equipo debe ejecutar una serie de tareas. Al final de la ejecución de las tareas, cada miembro o equipo entrega los avances, recibe devoluciones y comienza otra vez el proceso, lo que permite que los cambios necesarios sean implementados. [<sup>5</sup>](#referencias)
 
 ### Tipos Principales
-* **SCRUM:** Esta metodología se lleva adelante en “Sprints”, es decir, procesos de trabajo que deben ser lo más cortos posibles. Al final de cada sprint, el equipo debe entregar una versión mejorada del proyecto para que sea analizada por todos los interesados; luego de eso, los evaluadores dan una devolución, lo que da inicio al proceso de mejora.
+* #### SCRUM:
+Esta metodología se lleva adelante en “Sprints”, es decir, procesos de trabajo que deben ser lo más cortos posibles. Al final de cada sprint, el equipo debe entregar una versión mejorada del proyecto para que sea analizada por todos los interesados; luego de eso, los evaluadores dan una devolución, lo que da inicio al proceso de mejora.
 
 ![Diagrama de Scrum](/assets/img/scrum.jpg)
+
+* #### Kanban:
+Kanban es una palabra japonesa que en español significa “tarjeta visual”. Esta metodología sugiere una comunicación en tiempo real y controla el trabajo a través de una línea de producción. Es decir, se crean tres columnas: pendientes, en proceso y terminadas. De esa forma, es posible clasificar las tareas y visualizar fácilmente sus avances.
+
+Hay otras herramientas online similares a Kanban, como Trello y Monday.
+
+![Diagrama de Kanban](/assets/img/kanban.webp)
+
+
+
+
 
 ### Referencias
 1. Sommerville, I. (2011). Software Engineering (9th ed.). Addison-Wesley.
 2. Modelo de prototipos - EcuRed. (2026). Ecured.cu. https://www.ecured.cu/Modelo_de_prototipos
 3. Infragistics. (2022, September 6). ¿Qué es el desarrollo rápido de aplicaciones (modelo RAD)? App Builder. https://www.appbuilder.dev/es/blog/rapid-application-development
 4. de, E. (2025, August 13). Metodologías ágiles para la gestión de proyectos tecnológicos. UNIR México; Universidad Internacional de La Rioja. https://mexico.unir.net/noticias/ingenieria/metodologias-agiles/
+5. Salesforce LATAM. (2023, September 7). Metodologías Ágiles: qué son y cómo pueden ayudarte | Salesforce. Salesforce. https://www.salesforce.com/mx/blog/que-son-metodologias-agiles/
 
 ‌
