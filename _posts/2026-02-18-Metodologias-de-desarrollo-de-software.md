@@ -96,6 +96,15 @@ Este enfoque se centra en una planificación detallada y exhaustiva al inicio de
 ## Metodologías Ágiles
 Las metodologías ágiles permiten adaptar las tendencias y cambios del mercado a las necesidades de cada empresa, mediante técnicas, enfoques y prácticas que no solo buscan la mejora continua en la entrega de proyectos, sino también la adaptabilidad y colaboración para lograr ese objetivo.[<sup>4</sup>](#referencias)
 
+Es decir, una metodología ágil es una innovadora forma de trabajar y organizar flujos, que divide los proyectos en partes, permite adaptarse sobre la marcha, complementa y resuelve etapas en poco tiempo.
+
+Con las metodologías ágiles, no se planifica ni se diseña el proyecto por adelantado, es decir, a medida que ellas se van desarrollando se va definiendo el proyecto. Siendo así, los involucrados trabajan por períodos específicos, mientras que cada miembro del equipo debe ejecutar una serie de tareas. Al final de la ejecución de las tareas, cada miembro o equipo entrega los avances, recibe devoluciones y comienza otra vez el proceso, lo que permite que los cambios necesarios sean implementados. [<sup>5</sup>](#referencias)
+
+### Tipos Principales
+* **SCRUM:** Esta metodología se lleva adelante en “Sprints”, es decir, procesos de trabajo que deben ser lo más cortos posibles. Al final de cada sprint, el equipo debe entregar una versión mejorada del proyecto para que sea analizada por todos los interesados; luego de eso, los evaluadores dan una devolución, lo que da inicio al proceso de mejora.
+
+![Diagrama de Scrum](/assets/img/scrum.jpg)
+
 ### Referencias
 1. Sommerville, I. (2011). Software Engineering (9th ed.). Addison-Wesley.
 2. Modelo de prototipos - EcuRed. (2026). Ecured.cu. https://www.ecured.cu/Modelo_de_prototipos
