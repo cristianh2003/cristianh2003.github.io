@@ -82,6 +82,17 @@ Este enfoque se centra en una planificación detallada y exhaustiva al inicio de
 
     ![Diagrama de Desarrollo Rapido de Aplicaciones](/assets/img/espiral.png)
 
+## Ventajas y Desventajas de las Metodologías Tradicionales
+### Ventajas:
+- **Previsibilidad:** Los plazos, costos y alcance se definen al inicio.
+- **Documentación:** Genera un registro exhaustivo del sistema, facilitando el mantenimiento futuro por terceros.
+- **Disciplina:** Ideal para proyectos críticos (ej. software médico o aeroespacial) donde el error es inadmisible.
+
+### Desventajas:
+- **Rigidez:** Poca tolerancia a cambios en los requisitos una vez iniciado el desarrollo.
+- **Entrega tardía de valor:** El cliente solo ve el producto funcional al final del ciclo de vida.
+- **Riesgo de "Análisis-Parálisis":** Se puede invertir demasiado tiempo en la planificación sin escribir código.
+
 
 ### Referencias
 1. Sommerville, I. (2011). Software Engineering (9th ed.). Addison-Wesley.
