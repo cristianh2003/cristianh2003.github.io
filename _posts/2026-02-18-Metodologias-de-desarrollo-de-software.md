@@ -41,15 +41,13 @@ Este enfoque se centra en una planificación detallada y exhaustiva al inicio de
 
     En este modelo de proceso, el sistema se implementa parcialmente antes o durante la fase de análisis, lo que permite a los clientes ver el producto en las primeras etapas de su ciclo de vida. El proceso comienza con la entrevista a los clientes y el desarrollo del modelo de alto nivel incompleto.
 
-    Es un enfoque iterativo que crea versiones preliminares funcionales (prototipos) para validar requisitos con el cliente antes del desarrollo final. Permite visualizar la interfaz y funcionalidades, reduciendo riesgos, costos y mejorando la comprensión del sistema. Es ideal cuando los requisitos no están claros.
+    Es un enfoque iterativo que crea versiones preliminares funcionales (prototipos) para validar requisitos con el cliente antes del desarrollo final. Permite visualizar la interfaz y funcionalidades, reduciendo riesgos, costos y mejorando la comprensión del sistema. Es ideal cuando los requisitos no están claros.[^4]
 
     ![Diagrama de Prototipo](/assets/img/prototipo.png) 
 
 
 ### Referencias
-1. Sommerville, I. (2011). Software Engineering (9th ed.). Addison-Wesley.
-
-
-4. Modelo de prototipos - EcuRed. (2026). Ecured.cu. https://www.ecured.cu/Modelo_de_prototipos
+- [^1]Sommerville, I. (2011). Software Engineering (9th ed.). Addison-Wesley.
+- [^4] Modelo de prototipos - EcuRed. (2026). Ecured.cu. https://www.ecured.cu/Modelo_de_prototipos
 
 ‌
