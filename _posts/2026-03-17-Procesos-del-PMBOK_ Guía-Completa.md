@@ -66,8 +66,6 @@ En esta fase se produce la movilización intensiva de recursos y la mayor ejecuc
 
 * **Dinámica operativa:** Durante la ejecución, la dirección del proyecto invierte la mayor parte de los recursos de gestión en la integración y resolución de conflictos. El objetivo es eliminar cuellos de botella para asegurar la producción continua.
 
-![Gestión del valor ganado](/assets/img/gestion-del-valor-ganado.jpg)
-
 
 ### **4\. Grupo de Procesos de Monitoreo y Control**
 
@@ -77,7 +75,9 @@ Este grupo opera de manera concurrente con los demás grupos, desde la iniciaci�
 
 * **Mecanismo central:** El **Control Integrado de Cambios**. Las modificaciones en el alcance, tiempo o costo requieren un análisis de impacto formal y la aprobación documentada de un comité especializado (Change Control Board \- CCB).
 
-* **Métrica vital:** El **Análisis del Valor Ganado (Earned Value Management \- EVM)**. Este modelo matemático integra alcance, cronograma y costo para determinar objetivamente si el trabajo físico completado justifica el capital y el tiempo invertidos hasta la fecha de corte.
+* **Métrica vital:** El Análisis del Valor Ganado (Earned Value Management \- EVM). Este modelo matemático integra alcance, cronograma y costo para determinar objetivamente si el trabajo físico completado justifica el capital y el tiempo invertidos hasta la fecha de corte.
+
+![Gestión del valor ganado](/assets/img/gestion-del-valor-ganado.jpg)
 
 
 ### **5\. Grupo de Procesos de Cierre**
@@ -86,7 +86,7 @@ Existe la concepción errónea de que un proyecto concluye con la finalización 
 
 * **Objetivo principal:** Finalizar sistemáticamente todas las actividades en todos los grupos de procesos para declarar el cierre formal del proyecto, de una fase o de un contrato de adquisición.
 
-* **Actividades críticas:** Obtener la aceptación formal y documentada del cliente, archivar registros técnicos y financieros, liberar los recursos asignados y documentar las **Lecciones Aprendidas**.
+* **Actividades críticas:** Obtener la aceptación formal y documentada del cliente, archivar registros técnicos y financieros, liberar los recursos asignados y documentar las lecciones aprendidas.
 
 * **El valor del cierre:** La omisión de la documentación de lecciones aprendidas genera vulnerabilidades organizacionales, exponiendo a futuros proyectos a la repetición de fallos metodológicos y desviaciones presupuestarias.
 
