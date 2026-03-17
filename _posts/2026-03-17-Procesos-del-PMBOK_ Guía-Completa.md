@@ -35,8 +35,10 @@ Los grupos de procesos no constituyen fases lineales estrictas. En la ejecución
 
 El propósito fundamental de este grupo es autorizar formalmente el proyecto o una nueva fase. En esta etapa se justifica la viabilidad de la iniciativa y se define el problema estructural que busca resolver.
 
-* **Objetivo principal:** Alinear las expectativas de los patrocinadores y los interesados (stakeholders) con el propósito y alcance inicial del proyecto.  
-* **Procesos clave:** Desarrollar el Acta de Constitución del Proyecto (Project Charter) e Identificar a los Interesados. La identificación temprana de las partes interesadas mitiga el riesgo de bloqueos institucionales en fases posteriores.  
+* **Objetivo principal:** Alinear las expectativas de los patrocinadores y los interesados (stakeholders) con el propósito y alcance inicial del proyecto.
+
+* **Procesos clave:** Desarrollar el Acta de Constitución del Proyecto (Project Charter) e Identificar a los Interesados. La identificación temprana de las partes interesadas mitiga el riesgo de bloqueos institucionales en fases posteriores.
+
 * **Salida crítica:** El **Project Charter**. Este documento otorga la autoridad formal e institucional a la dirección del proyecto para asignar y consumir recursos financieros y humanos.
 
 
@@ -44,37 +46,52 @@ El propósito fundamental de este grupo es autorizar formalmente el proyecto o u
 
 Este grupo concentra la mayor densidad operativa (24 de los 49 procesos). Una planificación deficiente compromete directamente la viabilidad y el éxito del proyecto. En esta fase se define el alcance total, los objetivos detallados y la hoja de ruta técnica.
 
-* **Objetivo principal:** Desarrollar el Plan para la Dirección del Proyecto, un documento rector que consolida todos los planes subsidiarios (gestión de riesgos, calidad, adquisiciones, etc.).  
-* **Actividades críticas:** Recopilar requisitos técnicos, estimar costos y duraciones mediante técnicas estadísticas (como la estimación de tres valores PERT), e identificar y cuantificar riesgos.  
+* **Objetivo principal:** Desarrollar el Plan para la Dirección del Proyecto, un documento rector que consolida todos los planes subsidiarios (gestión de riesgos, calidad, adquisiciones, etc.).
+
+* **Actividades críticas:** Recopilar requisitos técnicos, estimar costos y duraciones mediante técnicas estadísticas (como la estimación de tres valores PERT), e identificar y cuantificar riesgos.
+
 * **Salida crítica:** La **Línea Base del Proyecto** (compuesta por las líneas base de Alcance, Cronograma y Costos). Constituye el parámetro de referencia aprobado contra el cual se medirá el rendimiento real durante la ejecución.
+
+
+![Estructura del desglose de un proyecto](/assets/img/que-es-un-edt-estructura-de-desglose-de-trabajo.webp)
+
 
 ### **3\. Grupo de Procesos de Ejecución**
 
 En esta fase se produce la movilización intensiva de recursos y la mayor ejecución del presupuesto. Representa la materialización de los parámetros definidos en la planificación.
 
-* **Objetivo principal:** Completar el trabajo definido en el plan para cumplir con las especificaciones técnicas y generar los entregables.  
-* **Actividades críticas:** Adquirir, desarrollar y dirigir al equipo técnico; gestionar los canales de comunicación; implementar las respuestas planificadas a los riesgos y gestionar el compromiso de los interesados.  
+* **Objetivo principal:** Completar el trabajo definido en el plan para cumplir con las especificaciones técnicas y generar los entregables.
+
+* **Actividades críticas:** Adquirir, desarrollar y dirigir al equipo técnico; gestionar los canales de comunicación; implementar las respuestas planificadas a los riesgos y gestionar el compromiso de los interesados.
+
 * **Dinámica operativa:** Durante la ejecución, la dirección del proyecto invierte la mayor parte de los recursos de gestión en la integración y resolución de conflictos. El objetivo es eliminar cuellos de botella para asegurar la producción continua.
+
 
 ### **4\. Grupo de Procesos de Monitoreo y Control**
 
 Este grupo opera de manera concurrente con los demás grupos, desde la iniciación hasta el cierre. Su función radica en la supervisión analítica del estado del proyecto y la implementación de acciones correctivas o preventivas.
 
-* **Objetivo principal:** Rastrear, analizar y regular el desempeño del proyecto para garantizar la alineación con las líneas base establecidas.  
-* **Mecanismo central:** El **Control Integrado de Cambios**. Las modificaciones en el alcance, tiempo o costo requieren un análisis de impacto formal y la aprobación documentada de un comité especializado (Change Control Board \- CCB).  
+* **Objetivo principal:** Rastrear, analizar y regular el desempeño del proyecto para garantizar la alineación con las líneas base establecidas. 
+
+* **Mecanismo central:** El **Control Integrado de Cambios**. Las modificaciones en el alcance, tiempo o costo requieren un análisis de impacto formal y la aprobación documentada de un comité especializado (Change Control Board \- CCB).
+
 * **Métrica vital:** El **Análisis del Valor Ganado (Earned Value Management \- EVM)**. Este modelo matemático integra alcance, cronograma y costo para determinar objetivamente si el trabajo físico completado justifica el capital y el tiempo invertidos hasta la fecha de corte.
+
 
 ### **5\. Grupo de Procesos de Cierre**
 
 Existe la concepción errónea de que un proyecto concluye con la finalización del trabajo técnico o el agotamiento del presupuesto. El cierre exige un procedimiento administrativo y legal riguroso.
 
-* **Objetivo principal:** Finalizar sistemáticamente todas las actividades en todos los grupos de procesos para declarar el cierre formal del proyecto, de una fase o de un contrato de adquisición.  
-* **Actividades críticas:** Obtener la aceptación formal y documentada del cliente, archivar registros técnicos y financieros, liberar los recursos asignados y documentar las **Lecciones Aprendidas**.  
+* **Objetivo principal:** Finalizar sistemáticamente todas las actividades en todos los grupos de procesos para declarar el cierre formal del proyecto, de una fase o de un contrato de adquisición.
+
+* **Actividades críticas:** Obtener la aceptación formal y documentada del cliente, archivar registros técnicos y financieros, liberar los recursos asignados y documentar las **Lecciones Aprendidas**.
+
 * **El valor del cierre:** La omisión de la documentación de lecciones aprendidas genera vulnerabilidades organizacionales, exponiendo a futuros proyectos a la repetición de fallos metodológicos y desviaciones presupuestarias.
+
 
 ## **La Matriz: Integrando Procesos y Áreas de Conocimiento**
 
-La operatividad de los 5 grupos de procesos requiere su aplicación transversal a través de **10 Áreas de Conocimiento**. Estas disciplinas especializadas operan bajo una alta interdependencia sistémica:
+La operatividad de los 5 grupos de procesos requiere su aplicación transversal a través de 10 Áreas de Conocimiento. Estas disciplinas especializadas operan bajo una alta interdependencia sistémica:
 
 1. **Integración:** La consolidación y coordinación general del proyecto.  
 2. **Alcance:** La delimitación estricta del trabajo requerido.  
