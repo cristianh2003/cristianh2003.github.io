@@ -66,6 +66,8 @@ En esta fase se produce la movilización intensiva de recursos y la mayor ejecuc
 
 * **Dinámica operativa:** Durante la ejecución, la dirección del proyecto invierte la mayor parte de los recursos de gestión en la integración y resolución de conflictos. El objetivo es eliminar cuellos de botella para asegurar la producción continua.
 
+![Gestión del valor ganado](/assets/img/gestion-del-valor-ganado.jpg)
+
 
 ### **4\. Grupo de Procesos de Monitoreo y Control**
 
