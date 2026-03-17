@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "Procesos de la dirección de proyectos según la Guía del PMBOK"
+date:   2026-03-17 10:00:00 -0600
+categories: Procesos de la dirección de proyectos según la Guía del PMBOK
+---
 # **Dominando la Dirección de Proyectos: Anatomía de los Procesos según el PMBOK**
 
 La dirección de proyectos es una disciplina rigurosa fundamentada en procesos estructurados. La ausencia de un marco de trabajo formal expone a los proyectos a desviaciones significativas, tales como sobrecostos, retrasos crónicos y la corrupción del alcance (scope creep). Para estandarizar estas prácticas y optimizar la ejecución, el Project Management Institute (PMI) desarrolló la Guía del PMBOK (Project Management Body of Knowledge). Este estándar global proporciona un marco de referencia robusto, validado empíricamente en la industria, para ejecutar proyectos desde su concepción hasta su cierre formal.
