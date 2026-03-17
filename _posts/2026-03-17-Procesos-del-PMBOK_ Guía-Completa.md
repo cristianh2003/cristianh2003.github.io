@@ -37,20 +37,20 @@ El propósito fundamental de este grupo es autorizar formalmente el proyecto o u
 
 * **Objetivo principal:** Alinear las expectativas de los patrocinadores y los interesados (stakeholders) con el propósito y alcance inicial del proyecto.
 
-* **Procesos clave:** Desarrollar el Acta de Constitución del Proyecto (Project Charter) e Identificar a los Interesados. La identificación temprana de las partes interesadas mitiga el riesgo de bloqueos institucionales en fases posteriores.
+* **Procesos clave:** Desarrollar el Acta de Constitución del Proyecto e identificar a los interesados. La identificación temprana de las partes interesadas mitiga el riesgo de bloqueos institucionales en fases posteriores.
 
-* **Salida crítica:** El **Project Charter**. Este documento otorga la autoridad formal e institucional a la dirección del proyecto para asignar y consumir recursos financieros y humanos.
+* **Salida crítica:** El Project Charter. Este documento otorga la autoridad formal e institucional a la dirección del proyecto para asignar y consumir recursos financieros y humanos.
 
 
 ### **2\. Grupo de Procesos de Planificación**
 
-Este grupo concentra la mayor densidad operativa (24 de los 49 procesos). Una planificación deficiente compromete directamente la viabilidad y el éxito del proyecto. En esta fase se define el alcance total, los objetivos detallados y la hoja de ruta técnica.
+Este grupo concentra la mayor densidad operativa. Una planificación deficiente compromete directamente la viabilidad y el éxito del proyecto. En esta fase se define el alcance total, los objetivos detallados y la hoja de ruta técnica.
 
 * **Objetivo principal:** Desarrollar el Plan para la Dirección del Proyecto, un documento rector que consolida todos los planes subsidiarios (gestión de riesgos, calidad, adquisiciones, etc.).
 
-* **Actividades críticas:** Recopilar requisitos técnicos, estimar costos y duraciones mediante técnicas estadísticas (como la estimación de tres valores PERT), e identificar y cuantificar riesgos.
+* **Actividades críticas:** Recopilar requisitos técnicos, estimar costos y duraciones mediante técnicas estadísticas, como la estimación de tres valores PERT, e identificar y cuantificar riesgos.
 
-* **Salida crítica:** La **Línea Base del Proyecto** (compuesta por las líneas base de Alcance, Cronograma y Costos). Constituye el parámetro de referencia aprobado contra el cual se medirá el rendimiento real durante la ejecución.
+* **Salida crítica:** La Línea Base del Proyecto compuesta por las líneas base de Alcance, Cronograma y Costos. Constituye el parámetro de referencia aprobado contra el cual se medirá el rendimiento real durante la ejecución.
 
 
 ![Estructura del desglose de un proyecto](/assets/img/que-es-un-edt-estructura-de-desglose-de-trabajo.webp)
