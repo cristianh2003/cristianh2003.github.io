@@ -9,6 +9,7 @@ La dirección de proyectos es una disciplina rigurosa fundamentada en procesos e
 
 En este blog se desglosa la arquitectura de procesos del PMBOK, enfocándose en el modelo de la 6ta edición. Aunque existen actualizaciones recientes, este modelo basado en procesos continúa siendo el núcleo operativo predominante en la industria. Asimismo, se expone su conexión orgánica con los principios de la 7ma edición.
 
+![Ciclo de vida de un proyecto](/assets/img/IMG_CicloVidaProyecto_AIC.svg)
 
 ## **La Arquitectura Base: Grupos de Procesos y Áreas de Conocimiento**
 
