@@ -106,7 +106,23 @@ La operatividad de los 5 grupos de procesos requiere su aplicación transversal 
 9. **Adquisiciones:** La administración de contratos y abastecimiento externo.  
 10. **Interesados (Stakeholders):** El análisis y gestión de las expectativas de las partes afectadas.
 
+| Áreas de Conocimiento | Grupo de Procesos de Inicio | Grupo de Procesos de Planificación | Grupo de Procesos de Ejecución | Grupo de Procesos de Monitoreo y Control | Grupo de Procesos de Cierre |
+| :---- | :---- | :---- | :---- | :---- | :---- |
+| **Integración** | 4.1 Desarrollar el Acta de Constitución del Proyecto | 4.2 Desarrollar el Plan para la Dirección del Proyecto | 4.3 Dirigir y Gestionar el Trabajo del Proyecto 4.4 Gestionar el Conocimiento del Proyecto | 4.5 Monitorear y Controlar el Trabajo del Proyecto 4.6 Realizar el Control Integrado de Cambios | 4.7 Cerrar el Proyecto o Fase |
+| **Alcance** |  | 5.1 Planificar la Gestión del Alcance 5.2 Recopilar Requisitos 5.3 Definir el Alcance 5.4 Crear la EDT/WBS |  | 5.5 Validar el Alcance 5.6 Controlar el Alcance |  |
+| **Cronograma** |  | 6.1 Planificar la Gestión del Cronograma 6.2 Definir las Actividades 6.3 Secuenciar las Actividades 6.4 Estimar la Duración de las Actividades 6.5 Desarrollar el Cronograma |  | 6.6 Controlar el Cronograma |  |
+| **Costos** |  | 7.1 Planificar la Gestión de los Costos 7.2 Estimar los Costos 7.3 Determinar el Presupuesto |  | 7.4 Controlar los Costos |  |
+| **Calidad** |  | 8.1 Planificar la Gestión de la Calidad | 8.2 Gestionar la Calidad | 8.3 Controlar la Calidad |  |
+| **Recursos** |  | 9.1 Planificar la Gestión de los Recursos 9.2 Estimar los Recursos de las Actividades | 9.3 Adquirir Recursos 9.4 Desarrollar el Equipo 9.5 Dirigir el Equipo | 9.6 Controlar los Recursos |  |
+| **Comunicaciones** |  | 10.1 Planificar la Gestión de las Comunicaciones | 10.2 Gestionar las Comunicaciones | 10.3 Monitorear las Comunicaciones |  |
+| **Riesgos** |  | 11.1 Planificar la Gestión de los Riesgos 11.2 Identificar los Riesgos 11.3 Realizar el Análisis Cualitativo de Riesgos 11.4 Realizar el Análisis Cuantitativo de Riesgos 11.5 Planificar la Respuesta a los Riesgos | 11.6 Implementar la Respuesta a los Riesgos | 11.7 Monitorear los Riesgos |  |
+| **Adquisiciones** |  | 12.1 Planificar la Gestión de las Adquisiciones | 12.2 Efectuar las Adquisiciones | 12.3 Controlar las Adquisiciones |  |
+| **Interesados** | 13.1 Identificar a los Interesados | 13.2 Planificar el Involucramiento de los Interesados | 13.3 Gestionar el Involucramiento de los Interesados | 13.4 Monitorear el Involucramiento de los Interesados |  |
+
+
 ## **Evolución: De Procesos (6ta Ed.) a Principios (7ma Ed.)**
+
+![PMBOK 6ta vs 7ma edicion](/assets/img/pmbok_7_vs_6.avif)
 
 Resulta imperativo comprender la transición paradigmática en los estándares del PMI. La 7ma edición del PMBOK representa un desplazamiento de un enfoque prescriptivo y predictivo (basado en procesos) hacia un marco flexible fundamentado en *principios rectores y dominios de desempeño*.
 
