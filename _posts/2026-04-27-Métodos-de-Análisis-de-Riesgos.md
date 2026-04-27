@@ -75,6 +75,8 @@ Para que las contingencias sean gestionadas con rigor científico y técnico, di
 10. **Diagrama de Ishikawa**  
    Conocido popularmente en la literatura técnica de calidad como diagrama de causa y efecto o espina de pescado, este recurso gráfico es empleado para que la interrelación sistémica entre un problema central (ubicado en la "cabeza" del esquema) y sus múltiples variables causales (ubicadas en las "espinas") sea ilustrada con claridad visual. Las fallas operativas son desglosadas en sesiones colaborativas y agrupadas según categorías industriales predefinidas, conocidas comúnmente como las 6M (Método, Medio ambiente, Máquina, Mano de obra, Medición y Materiales), facilitando que el análisis de la variabilidad sea profundizado de manera estructurada.
 
+   ![Diagrama de Ishikawa](/assets/img/ishikawa.png)
+
 
 11. **Cuestionario de análisis de riesgos**  
    Consiste en un instrumento estandarizado de recolección de datos cualitativos por medio del cual la probabilidad empírica de eventos perjudiciales y la percepción del riesgo interno es acotada. Una batería rigurosa de preguntas específicas, basadas en marcos de referencia sectoriales, es diseñada y posteriormente respondida por los gerentes y operadores técnicos. Este método garantiza que todas las áreas susceptibles de la operación sean escrutadas homogéneamente de acuerdo con los requerimientos técnicos exigidos, revelando vulnerabilidades ocultas en la cultura organizacional.
