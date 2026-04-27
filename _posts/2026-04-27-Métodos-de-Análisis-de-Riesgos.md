@@ -100,3 +100,11 @@ Para que las contingencias sean gestionadas con rigor científico y técnico, di
    Es un método deductivo y estructurado de enfoque descendente (top-down) utilizado para determinar cómo puede ocurrir un evento crítico no deseado. Mediante el uso de compuertas lógicas booleanas (como AND y OR), las combinaciones de fallos mecánicos, errores humanos o condiciones ambientales que desencadenan la falla principal del sistema son modeladas gráficamente. Su rigor matemático permite calcular la probabilidad exacta del evento crítico a partir de las tasas de fallo de los eventos base, siendo una herramienta fundamental para evaluar sistemas de alta confiabilidad en la ingeniería.
 
    ![Fault Tree Analysis](/assets/img/FTA.avif)
+
+
+## **Conclusión**
+La gestión integral de riesgos constituye el pilar estructural que garantiza la viabilidad y resiliencia a largo plazo de cualquier organización. Lejos de ser un trámite burocrático, es el mecanismo técnico y matemático mediante el cual la incertidumbre del entorno se transforma en datos cuantificables para fundamentar la toma de decisiones estratégicas.
+
+La pluralidad de los quince métodos analizados desde aproximaciones cualitativas ágiles hasta rigurosas simulaciones probabilísticas evidencia que la evaluación de contingencias exige un enfoque adaptable. La selección de la herramienta correcta depende estrictamente de la complejidad del sistema evaluado y de la disponibilidad de datos empíricos.
+
+En última instancia, la correcta aplicación de estas metodologías permite a la alta dirección y a los equipos de ingeniería abandonar posturas reactivas, neutralizar vulnerabilidades sistémicas, proteger su retorno de inversión y asegurar la continuidad operativa frente a la ineludible volatilidad del macroentorno.
