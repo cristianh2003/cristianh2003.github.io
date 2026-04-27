@@ -44,6 +44,8 @@ Para que las contingencias sean gestionadas con rigor científico y técnico, di
 4. **FMEA (Failure Mode and Effective Analysis)**  
    Concebido originalmente en contextos de alta exigencia como la ingeniería aeroespacial y automotriz, por medio de esta técnica probabilística los modos potenciales de fallo en componentes o sistemas son identificados y evaluados matemáticamente. Una puntuación de criticidad, conocida como Número de Prioridad de Riesgo (RPN por sus siglas en inglés), es calculada a partir de la multiplicación concurrente de tres variables estandarizadas: la frecuencia teórica de aparición del error, la gravedad de su impacto en el sistema global y la capacidad tecnológica instalada para que dicho fallo sea detectado antes de llegar al usuario final. 
 
+   ![FMEA](/assets/img/FMEA.webp)
+
 
 5. **Lista de chequeo (Checklist)**  
    Es definida como un instrumento formal de verificación empírica mediante el cual el cumplimiento estricto de medidas de control, normativas de seguridad y procedimientos de prevención es auditado sistemáticamente en el lugar de trabajo. En este formato documental, nutrido por datos históricos y lecciones aprendidas, las vulnerabilidades previamente tipificadas son listadas de manera estructurada junto a sus mitigaciones correspondientes, asegurando que ninguna consideración crítica o paso fundamental sea omitido por los supervisores durante las inspecciones de rutina o los arranques de planta. 
