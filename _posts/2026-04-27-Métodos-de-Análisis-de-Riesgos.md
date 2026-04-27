@@ -60,6 +60,8 @@ Para que las contingencias sean gestionadas con rigor científico y técnico, di
 7. **Matriz FODA**  
    Es reconocida como una herramienta cualitativa fundamental en la planeación estratégica, donde el entorno operativo general de la organización es diseccionado analíticamente en factores de índole interna y externa. A través de ella, las debilidades estructurales y fortalezas inherentes a la infraestructura son contrastadas con las oportunidades comerciales y las amenazas del mercado macroeconómico. Este cruce de variables facilita que estrategias integrales de mitigación y planes de contingencia sean formulados y desplegados por la alta gerencia.
 
+   ![Matriz FODA](/assets/img/foda.webp)
+
 
 8. **Análisis HAZOP (Hazard and Operability Study)**  
    Este enfoque altamente estructurado y minucioso es aplicado de manera extensiva en el diseño y operación de plantas químicas, petroquímicas y procesos industriales complejos para que los problemas de operatividad y seguridad operacional sean aislados. Mediante este escrutinio, operado bajo "palabras guía" (como "más de", "menos de", "inverso"), las desviaciones hipotéticas de los parámetros termodinámicos o mecánicos de diseño (tales como la presión, el flujo, el nivel o la temperatura) son evaluadas sistemáticamente en diferentes nodos del sistema para que los riesgos operacionales y peligros de contención sean previstos. 
@@ -68,6 +70,7 @@ Para que las contingencias sean gestionadas con rigor científico y técnico, di
 9. **Matriz de análisis de riesgo**  
    Es estructurada como una herramienta bidimensional mediante la cual las vulnerabilidades corporativas son categorizadas visual y numéricamente para facilitar la toma de decisiones. En su configuración matricial, la probabilidad estadística de materialización de un evento anómalo es cruzada directamente con la magnitud financiera, operativa o reputacional de su impacto. El resultado es un mapa de calor segmentado en zonas (baja, moderada, alta, extrema) lo que permite que los riesgos sean clasificados jerárquicamente para que una asignación de recursos y una respuesta prioritaria sea ejecutada de inmediato por los responsables del área.
 
+   ![Matriz de riesgo](/assets/img/matriz_de_riesgo.png)
 
 10. **Diagrama de Ishikawa**  
    Conocido popularmente en la literatura técnica de calidad como diagrama de causa y efecto o espina de pescado, este recurso gráfico es empleado para que la interrelación sistémica entre un problema central (ubicado en la "cabeza" del esquema) y sus múltiples variables causales (ubicadas en las "espinas") sea ilustrada con claridad visual. Las fallas operativas son desglosadas en sesiones colaborativas y agrupadas según categorías industriales predefinidas, conocidas comúnmente como las 6M (Método, Medio ambiente, Máquina, Mano de obra, Medición y Materiales), facilitando que el análisis de la variabilidad sea profundizado de manera estructurada.
