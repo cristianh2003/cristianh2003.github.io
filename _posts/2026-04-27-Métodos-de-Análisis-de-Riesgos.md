@@ -85,6 +85,8 @@ Para que las contingencias sean gestionadas con rigor científico y técnico, di
 12. **Gráfica de flujo de procesos**  
    Mediante este recurso diagramático, la arquitectura funcional, las interdependencias y la secuencia lógica de las operaciones son mapeadas visualmente desde el inicio hasta el fin de una cadena de valor. Al ser empleadas nomenclaturas geométricas estandarizadas internacionalmente (como las proporcionadas por ANSI o ISO), es asegurado que el modelo integral de las actividades sea interpretado y analizado de manera universal por ingenieros y auditores. De esta forma, cuellos de botella críticos, puntos únicos de fallo (SPOF) o ineficiencias sistémicas que representen un riesgo operativo son identificados y mitigados rediseñando el flujo. 
 
+   ![Gráfica de flujo de procesos](/assets/img/flujo-de-procesos.png)
+
 
 13. **Análisis de los estados financieros y otra información de la empresa**  
    A través de este enfoque de carácter eminentemente retrospectivo y cuantitativo, el registro contable, los balances generales, los flujos de caja y la documentación corporativa son auditados a profundidad para que desviaciones monetarias, riesgos de liquidez y errores operacionales pasados sean evaluados empíricamente. Al ser extraída esta inteligencia financiera de auditorías anteriores, la certidumbre de las proyecciones económicas futuras es incrementada sustancialmente, impidiendo que los fallos estructurales de solvencia o fraude sean replicados sistemáticamente por la administración.
@@ -96,3 +98,5 @@ Para que las contingencias sean gestionadas con rigor científico y técnico, di
 
 15. **Análisis de Árbol de Fallas (FTA - Fault Tree Analysis)**  
    Es un método deductivo y estructurado de enfoque descendente (top-down) utilizado para determinar cómo puede ocurrir un evento crítico no deseado. Mediante el uso de compuertas lógicas booleanas (como AND y OR), las combinaciones de fallos mecánicos, errores humanos o condiciones ambientales que desencadenan la falla principal del sistema son modeladas gráficamente. Su rigor matemático permite calcular la probabilidad exacta del evento crítico a partir de las tasas de fallo de los eventos base, siendo una herramienta fundamental para evaluar sistemas de alta confiabilidad en la ingeniería.
+
+   ![Fault Tree Analysis](/assets/img/FTA.avif)
