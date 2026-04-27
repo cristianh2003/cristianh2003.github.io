@@ -48,7 +48,9 @@ Para que las contingencias sean gestionadas con rigor científico y técnico, di
 
 
 5. **Lista de chequeo (Checklist)**  
-   Es definida como un instrumento formal de verificación empírica mediante el cual el cumplimiento estricto de medidas de control, normativas de seguridad y procedimientos de prevención es auditado sistemáticamente en el lugar de trabajo. En este formato documental, nutrido por datos históricos y lecciones aprendidas, las vulnerabilidades previamente tipificadas son listadas de manera estructurada junto a sus mitigaciones correspondientes, asegurando que ninguna consideración crítica o paso fundamental sea omitido por los supervisores durante las inspecciones de rutina o los arranques de planta. 
+   Es definida como un instrumento formal de verificación empírica mediante el cual el cumplimiento estricto de medidas de control, normativas de seguridad y procedimientos de prevención es auditado sistemáticamente en el lugar de trabajo. En este formato documental, nutrido por datos históricos y lecciones aprendidas, las vulnerabilidades previamente tipificadas son listadas de manera estructurada junto a sus mitigaciones correspondientes, asegurando que ninguna consideración crítica o paso fundamental sea omitido por los supervisores durante las inspecciones de rutina o los arranques de planta.
+
+   ![Checklist](/assets/img/checklist.avif) 
 
 
 6. **Simulación de Monte Carlo**  
