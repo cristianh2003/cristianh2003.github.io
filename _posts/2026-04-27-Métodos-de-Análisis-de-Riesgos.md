@@ -23,7 +23,9 @@ La ejecución de evaluaciones de riesgos es considerada de vital importancia den
 Para que las contingencias sean gestionadas con rigor, diversas herramientas metodológicas son implementadas a nivel industrial y corporativo:
 
 1. **What if (Qué pasaría si)**  
-   Es catalogado como un enfoque cualitativo y de alta flexibilidad mediante el cual escenarios hipotéticos son formulados para que contingencias imprevistas sean visibilizadas. Mediante sesiones estructuradas de lluvia de ideas guiadas por la interrogante "¿qué pasaría si...?", posibles alteraciones operativas son exploradas, permitiendo que respuestas analíticas y recomendaciones preliminares sean establecidas por los expertos involucrados.  
+   Es catalogado como un enfoque cualitativo y de alta flexibilidad mediante el cual escenarios hipotéticos son formulados para que contingencias imprevistas sean visibilizadas. Mediante sesiones estructuradas de lluvia de ideas guiadas por la interrogante "¿qué pasaría si...?", posibles alteraciones operativas son exploradas, permitiendo que respuestas analíticas y recomendaciones preliminares sean establecidas por los expertos involucrados.
+   
+     
 2. **Análisis preliminar de riesgos (APR)**  
    Este procedimiento es implementado durante las fases tempranas del ciclo de vida de un proyecto para que las amenazas iniciales sean detectadas oportunamente. Cada actividad del proceso es desglosada y tabulada, de modo que sus causas de fallo, consecuencias esperadas y prioridades de atención sean clasificadas rigurosamente de acuerdo con su probabilidad e impacto estimado.  
 3. **Cinco porqués**  
